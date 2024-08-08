@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web simple que permite extraer texto de archivos PDF y mostrarlo en una tabla. La tabla resultante puede ser copiada o exportada a un archivo Excel.
 
+vista [link](https://freddyrm.github.io/ScraperPDF/).
+
 ## Características
 
 - Carga de archivos PDF.
