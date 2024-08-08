@@ -47,17 +47,12 @@ Este proyecto es una aplicación web simple que permite extraer texto de archivo
 
 El proyecto utiliza las siguientes librerías y frameworks:
 
-Bootstrap 5 para estilos y componentes.
-DataTables para la manipulación de la tabla.
-jQuery para manipulación del DOM.
-PDF.js para procesar los archivos PDF.
-Personalización
-Puedes modificar el archivo CSS incorporado en la sección <style> del archivo index.html para cambiar el estilo de la aplicación según tus necesidades.
+- Bootstrap 5 para estilos y componentes.
+- DataTables para la manipulación de la tabla.
+- jQuery para manipulación del DOM.
+- PDF.js para procesar los archivos PDF.
+- Personalización
+- Puedes modificar el archivo CSS incorporado en la sección <style> del archivo index.html para cambiar el estilo de la aplicación según tus necesidades.
 
-Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Siéntete libre de hacer un fork del repositorio y enviar un pull request con mejoras o nuevas características.
-
-Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-Este README proporciona una guía clara sobre cómo usar el proyecto, los requisitos, y cómo contribuir. Puedes adaptarlo según sea necesario para tu proyecto específico.
