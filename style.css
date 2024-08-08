@@ -1,0 +1,26 @@
+.table-container {
+  margin-top: 20px;
+}
+.rounded-button {
+  border-radius: 20px;
+}
+.rounded-input {
+  border-radius: 20px;
+}
+
+html{
+  font-size: 12px;
+}
+
+div.dt-top-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+div.dt-center-in-div {
+  margin: 0 auto;
+}
+
+div.dt-filter-spacer {
+  margin: 10px 0;
+}
